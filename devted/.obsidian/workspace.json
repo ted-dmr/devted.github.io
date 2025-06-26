@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "266ee69a0e061868",
+        "id": "2e11517133b5e5a7",
         "type": "tabs",
         "children": [
           {
-            "id": "8f5298195f3dc4d8",
+            "id": "e752dc462b5a28b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -34,19 +30,6 @@
         "id": "4b1f9f3cf7f5908f",
         "type": "tabs",
         "children": [
-          {
-            "id": "06d089e299955857",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "3d3cafb9fdba797e",
             "type": "leaf",
@@ -78,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36e6efc85ec31b9b",
@@ -95,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +86,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +95,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,13 +123,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -163,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6264877c4beab809",
+  "active": "3d3cafb9fdba797e",
   "lastOpenFiles": [
     "Untitled.md",
     "Welcome.md"
