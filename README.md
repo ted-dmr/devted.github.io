@@ -1,4 +1,4 @@
-# Obsidian / Quartz / GitHub Pages Template
+# Obsidian / Quartz / GitHub Pages Template test
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
 
