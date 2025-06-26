@@ -37,13 +37,14 @@
             "id": "fe4d4bcff974df03",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "source/content/.obsidian/workspace.json",
-                "staged": false
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -120,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -138,11 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -166,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           },
           {
@@ -204,7 +208,11 @@
   },
   "active": "fe4d4bcff974df03",
   "lastOpenFiles": [
+    "VisualStudio/settings.json.md",
+    "VisualStudio/Extension.md",
+    "VisualStudio/code-snippet.md",
     "index.md",
+    "VisualStudio",
     "category-folder/Some note.md",
     "conflict-files-obsidian-git.md",
     "category-folder/index.md",

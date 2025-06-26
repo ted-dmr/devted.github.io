@@ -1,5 +1,8 @@
 ---
 title: My GitHub Pages Notebook!
+cssclasses: 
+aliases: 
+tags: []
 ---
 
 asdasdasd
